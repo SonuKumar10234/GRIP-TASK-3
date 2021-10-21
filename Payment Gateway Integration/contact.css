@@ -1,0 +1,80 @@
+body{
+    background-image: url("img11.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.heading{
+     text-align:center;
+     font-size: 40px;
+     padding-top:60px;
+     border-bottom:2px solid orange ;
+     padding-bottom: 10px;
+}
+.container{
+    background: transparent;
+    margin-top: 50px;
+    
+}
+.row{
+    padding:10px;
+    margin-left:px;
+}
+.form-control{
+    margin-bottom:15px;
+}
+
+.btn{
+    background: transparent;
+    transition: all 0.5s ease-in-out;
+}
+.icon{
+    font-family: monospace;
+    font-size: 17px;
+}
+.icon i{
+    margin-left:30px;
+}
+.list-unstyled  li i{
+    color:#fff;
+    margin-left:25px;
+    margin-right:10px;
+}
+.list-unstyled  li {
+     float: left;
+}
+.list-unstyled  li i:hover{
+     color:orange;
+}
+.para{
+    margin-left:50px;
+    color: orangered;
+    font-size: 20px;
+    font-weight: 500;
+}
+.navbar .navbar-brand{
+    font-size: 30px;
+    color: #edbb00;
+    font-weight: 700;
+    
+}
+.navbar .navbar-brand:hover{
+    color: aqua;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: lime;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#EA3014;
+    background-color: transparent;
+    transition: all 0.2s ease-in;
+}
+.navbar-toggler{
+    background-color:#fff;
+    color: goldenrod;
+    margin-left:0px;
+}
+
